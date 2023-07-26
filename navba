@@ -1,0 +1,913 @@
+<li class="nav-item active">
+                                            <a class="nav-link hvr-underline-from-center" href="index.php">Home</a>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle hvr-underline-from-center" href="#"
+                                                id="navbarDropdown">
+                                                About Us </a>
+                                            <div class="dropdown-menu mega-dropdown" aria-labelledby="navbarDropdown">
+                                                <a class="dropdown-item" href="why-us.php">Why Us?</a>
+                                                <a class="dropdown-item" href="message-director.php">Message from the
+                                                    Director</a>
+                                                <a class="dropdown-item" href="who-are-we.php">Who are we?</a>
+                                                <a class="dropdown-item" href="teams.php">Our Team</a>
+                                                <a class="dropdown-item" href="reviews.php">Reviews</a>
+                                                <a class="dropdown-item" href="documents.php">Documents</a>
+                                            </div>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="#" class="nav-link dropdown-toggle hvr-underline-from-center"
+                                                id="navbarDropdown">Item 1</a>
+                                            <ul class="subMenu">
+                                                <li><a href="#">Item 1.2 &nbsp;<i class="fa fa-caret-right"></i></a>
+                                                    <ul class="subMenu">
+                                                        <li><a href="#">Item 1.2.1</a>
+                                                        </li>
+                                                        <li><a href="#">Item 1.2.2 &nbsp;<i
+                                                                    class="fa fa-caret-right"></i></a>
+                                                            <ul class="subMenu">
+                                                                <li><a href="#">Item 1.2.2.1</a></li>
+                                                            </ul>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle hvr-underline-from-center" href="#"
+                                                id="navbarDropdown">
+                                                Expedition
+                                            </a>
+                                            <div class="dropdown-menu mega-dropdown" aria-labelledby="navbarDropdown">
+                                                <a class="dropdown-item" href="javascript:">Manaslu</a>
+                                                <a class="dropdown-item" href="javascript:">Annapurna</a>
+                                                <a class="dropdown-item" href="javascript:">Lhotse</a>
+                                                <a class="dropdown-item" href="javascript:">Lantang</a>
+                                            </div>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a class="nav-link dropdown-toggle hvr-underline-from-center" href="#"
+                                                id="navbarDropdown">
+                                                Trekking
+                                            </a>
+                                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                <a class="dropdown-item" href="javascript:">Manaslu</a>
+                                                <a class="dropdown-item" href="javascript:">Annapurna</a>
+                                                <a class="dropdown-item" href="javascript:">Lhotse</a>
+                                                <a class="dropdown-item" href="javascript:">Lantang</a>
+                                            </div>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link hvr-underline-from-center" href="blogs.php">Blogs</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link hvr-underline-from-center" href="javascript:">Gallery</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link hvr-underline-from-center" href="contact.php">Contact</a>
+                                        </li>
+                                        <li class="nav-item search-icon">
+                                            <a class="nav-link" href="javascript:"><i
+                                                    class="fa-solid fa-magnifying-glass search-button"></i>
+                                                <?php include('assets/includes/search.php'); ?></a>
+                                        </li>
+                                        <!--NAV NEW-->
+                                        <nav class="main-navbar">
+                                            <div class="container">
+                                                <div class="logo">
+                                                    <a href="index.php"><img src="assets/images/logo.png" alt="Bangladesh Outsourcing Company" /></a>
+                                                </div>
+                                                <input type="radio" name="slider" id="menu-bt d-inputn " />
+                                                <input type="radio" name="slider" id="close-bt d-inputn " />
+                                                <ul class="nav-links" style="margin-bottom: 0">
+                                                    <label for="close-btn" class="btn close-btn"><i class="fas fa-times"></i></label>
+                                                    <li class="nav_item"><a class="shadow_one hvr-underline-from-center" href="index.php">Home</a>
+                                                    </li>
+                                                    <li class="nav_item">
+                                                        <a href="#" class="desktop-item shadow_one hvr-underline-from-center">About Us<i
+                                                                class="fas fa-chevron-down"></i></a>
+                                                        <input type="checkbox" id="showMega d-input" />
+                                                        <label for="showMega" class="mobile-item">About Us</label>
+                                                        <div class="mega-box">
+                                                            <div class="content">
+                                                                <div class="row-25">
+                                                                    <h4>About Us</h4>
+                                                                    <ul class="nav nav-pills flex-column mega-links">
+                                                                        <li class="nav-item">
+                                                                            <a class="nav-link active port-inner-link" data-toggle="pill"
+                                                                                href="#all" role="tab" aria-controls="pills-all"
+                                                                                aria-selected="true">All</a>
+                                                                        </li>
+                                                                        <li class="nav-item">
+                                                                            <a class="nav-link port-inner-link" data-toggle="pill" href="#land"
+                                                                                role="tab" aria-controls="pills-land"
+                                                                                aria-selected="false">Commercial</a>
+                                                                        </li>
+                                                                        <li class="nav-item">
+                                                                            <a class="nav-link port-inner-link" data-toggle="pill" href="#rent"
+                                                                                role="tab" aria-controls="pills-rent"
+                                                                                aria-selected="false">Education</a>
+                                                                        </li>
+                                                                        <li class="nav-item">
+                                                                            <a class="nav-link port-inner-link" data-toggle="pill" href="#house"
+                                                                                role="tab" aria-controls="pills-false"
+                                                                                aria-selected="false">Hospital</a>
+                                                                        </li>
+                                                                    </ul>
+                                                                </div>
+                                                                <div class="row-full">
+                                                                    <div class="tab-content mt-3">
+                                                                        <div class="tab-pane fade show active" id="all" role="tabpanel"
+                                                                            aria-labelledby="all-tab">
+                                                                            <div class="row">
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid"><!-- 
+                                                                                                <div class="navbar-image-overlay"></div> -->
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="tab-pane fade" id="land" role="tabpanel"
+                                                                            aria-labelledby="land-tab">
+                                                                            <div class="row">
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car2.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car2.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car2.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car2.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="tab-pane fade" id="rent" role="tabpanel"
+                                                                            aria-labelledby="rent-tab">
+                                                                            <div class="row">
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car3.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car3.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car3.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car3.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="tab-pane fade" id="house" role="tabpanel"
+                                                                            aria-labelledby="house-tab">
+                                                                            <div class="row">
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="nav_item">
+                                                        <a href="#" class="desktop-item shadow_one hvr-underline-from-center">Regions<i
+                                                                class="fas fa-chevron-down"></i></a>
+                                                        <input type="checkbox" id="showMega d-input" />
+                                                        <label for="showMega" class="mobile-item">Regions</label>
+                                                        <div class="mega-box">
+                                                            <div class="content">
+                                                                <div class="row-25">
+                                                                    <h4>Regions</h4>
+                                                                    <ul class="nav nav-pills flex-column mega-links">
+                                                                        <li class="nav-item">
+                                                                            <a class="nav-link active port-inner-link" data-toggle="pill"
+                                                                                href="#region1" role="tab" aria-controls="pills-all"
+                                                                                aria-selected="true">All</a>
+                                                                        </li>
+                                                                        <li class="nav-item">
+                                                                            <a class="nav-link port-inner-link" data-toggle="pill" href="#region2"
+                                                                                role="tab" aria-controls="pills-land"
+                                                                                aria-selected="false">Commercial</a>
+                                                                        </li>
+                                                                        <li class="nav-item">
+                                                                            <a class="nav-link port-inner-link" data-toggle="pill" href="#region3"
+                                                                                role="tab" aria-controls="pills-rent"
+                                                                                aria-selected="false">Education</a>
+                                                                        </li>
+                                                                        <li class="nav-item">
+                                                                            <a class="nav-link port-inner-link" data-toggle="pill" href="#region4"
+                                                                                role="tab" aria-controls="pills-false"
+                                                                                aria-selected="false">Hospital</a>
+                                                                        </li>
+                                                                    </ul>
+                                                                </div>
+                                                                <div class="row-full">
+                                                                    <div class="tab-content mt-3">
+                                                                        <div class="tab-pane fade show active" id="region1" role="tabpanel"
+                                                                            aria-labelledby="all-tab">
+                                                                            <div class="row">
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="tab-pane fade" id="region2" role="tabpanel"
+                                                                            aria-labelledby="land-tab">
+                                                                            <div class="row">
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car2.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car2.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car2.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car2.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="tab-pane fade" id="region3" role="tabpanel"
+                                                                            aria-labelledby="rent-tab">
+                                                                            <div class="row">
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car3.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car3.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car3.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car3.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="tab-pane fade" id="region4" role="tabpanel"
+                                                                            aria-labelledby="house-tab">
+                                                                            <div class="row">
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="nav_item">
+                                                        <a href="#" class="desktop-item shadow_one hvr-underline-from-center">Expedition<i
+                                                                class="fas fa-chevron-down"></i></a>
+                                                        <input type="checkbox" id="showMega d-input" />
+                                                        <label for="showMega" class="mobile-item">Expedition</label>
+                                                        <div class="mega-box">
+                                                            <div class="content">
+                                                                <div class="row-25">
+                                                                    <h4>Expedition</h4>
+                                                                    <ul class="nav nav-pills flex-column mega-links">
+                                                                        <li class="nav-item">
+                                                                            <a class="nav-link active port-inner-link" data-toggle="pill"
+                                                                                href="#expedition1" role="tab" aria-controls="pills-all"
+                                                                                aria-selected="true">All</a>
+                                                                        </li>
+                                                                        <li class="nav-item">
+                                                                            <a class="nav-link port-inner-link" data-toggle="pill"
+                                                                                href="#expedition2" role="tab" aria-controls="pills-land"
+                                                                                aria-selected="false">Commercial</a>
+                                                                        </li>
+                                                                        <li class="nav-item">
+                                                                            <a class="nav-link port-inner-link" data-toggle="pill"
+                                                                                href="#expedition3" role="tab" aria-controls="pills-rent"
+                                                                                aria-selected="false">Education</a>
+                                                                        </li>
+                                                                        <li class="nav-item">
+                                                                            <a class="nav-link port-inner-link" data-toggle="pill"
+                                                                                href="#expedition4" role="tab" aria-controls="pills-false"
+                                                                                aria-selected="false">Hospital</a>
+                                                                        </li>
+                                                                    </ul>
+                                                                </div>
+                                                                <div class="row-full">
+                                                                    <div class="tab-content mt-3">
+                                                                        <div class="tab-pane fade show active" id="expedition1" role="tabpanel"
+                                                                            aria-labelledby="all-tab">
+                                                                            <div class="row">
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="tab-pane fade" id="expedition2" role="tabpanel"
+                                                                            aria-labelledby="land-tab">
+                                                                            <div class="row">
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car2.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car2.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car2.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car2.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="tab-pane fade" id="expedition3" role="tabpanel"
+                                                                            aria-labelledby="rent-tab">
+                                                                            <div class="row">
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car3.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car3.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car3.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car3.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="tab-pane fade" id="expedition4" role="tabpanel"
+                                                                            aria-labelledby="house-tab">
+                                                                            <div class="row">
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="nav_item">
+                                                        <a href="#" class="desktop-item shadow_one hvr-underline-from-center">Trekking<i
+                                                                class="fas fa-chevron-down"></i></a>
+                                                        <input type="checkbox" id="showMega  d-input" />
+                                                        <label for="showMega" class="mobile-item">Trekking</label>
+                                                        <div class="mega-box">
+                                                            <div class="content">
+                                                                <div class="row-25">
+                                                                    <h4>Trekking</h4>
+                                                                    <ul class="nav nav-pills flex-column mega-links">
+                                                                        <li class="nav-item">
+                                                                            <a class="nav-link active port-inner-link" data-toggle="pill"
+                                                                                href="#trekking1" role="tab" aria-controls="pills-all"
+                                                                                aria-selected="true">All</a>
+                                                                        </li>
+                                                                        <li class="nav-item">
+                                                                            <a class="nav-link port-inner-link" data-toggle="pill" href="#trekking2"
+                                                                                role="tab" aria-controls="pills-land"
+                                                                                aria-selected="false">Commercial</a>
+                                                                        </li>
+                                                                        <li class="nav-item">
+                                                                            <a class="nav-link port-inner-link" data-toggle="pill" href="#trekking3"
+                                                                                role="tab" aria-controls="pills-rent"
+                                                                                aria-selected="false">Education</a>
+                                                                        </li>
+                                                                        <li class="nav-item">
+                                                                            <a class="nav-link port-inner-link" data-toggle="pill" href="#trekking4"
+                                                                                role="tab" aria-controls="pills-false"
+                                                                                aria-selected="false">Hospital</a>
+                                                                        </li>
+                                                                    </ul>
+                                                                </div>
+                                                                <div class="row-full">
+                                                                    <div class="tab-content mt-3">
+                                                                        <div class="tab-pane fade show active" id="trekking1" role="tabpanel"
+                                                                            aria-labelledby="all-tab">
+                                                                            <div class="row">
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="tab-pane fade" id="trekking2" role="tabpanel"
+                                                                            aria-labelledby="land-tab">
+                                                                            <div class="row">
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car2.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car2.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car2.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car2.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="tab-pane fade" id="trekking3" role="tabpanel"
+                                                                            aria-labelledby="rent-tab">
+                                                                            <div class="row">
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car3.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car3.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car3.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car3.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="tab-pane fade" id="trekking4" role="tabpanel"
+                                                                            aria-labelledby="house-tab">
+                                                                            <div class="row">
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-lg-4 col-md-4">
+                                                                                    <div class="navbar-image">
+                                                                                        <a href="itinerary.php">
+                                                                                            <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                                                class="img-fluid">
+                                                                                        </a>
+                                                                                        <h6 class="destionation-name-navbar">Manasalu Region</h6>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="nav_item"><a class="shadow_one hvr-underline-from-center" href="blogs.php">Blogs</a>
+                                                    </li>
+                                                    <li class="nav_item"><a class="shadow_one hvr-underline-from-center"
+                                                            href="gallery.php">Gallery</a></li>
+                                                    <li class="nav_item"><a class="shadow_one hvr-underline-from-center"
+                                                            href="contact.php">Contact</a></li>
+                                                    <li class="nav-item search-icon">
+                                                        <a class="nav-link" href="javascript:"><i
+                                                                class="fa-solid fa-magnifying-glass search-button"></i>
+                                                            <?php include('assets/includes/search.php'); ?></a>
+                                                    </li>
+                                                </ul>
+                                                <label for="menu-btn" class="btn menu-btn"><i class="fas fa-bars"></i></label>
+                                            </div>
+                                        </nav>
