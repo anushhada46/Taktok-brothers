@@ -29,7 +29,7 @@
         <div class="row align-items-center">
             <div class="col-lg-7 col-md-7">
                 <div class="about-top-image">
-                    <img src="assets/images/car3.jpg" alt="About Top Image" class="img-fluid">
+                    <img src="assets/images/land8.jpg" alt="About Top Image" class="img-fluid">
                 </div>
             </div>
             <div class="col-lg-5 col-md-5">
@@ -41,7 +41,7 @@
                         adipisicing elit. Eaque eligendi quis, modi itaque explicabo, nam eveniet cumque eos doloribus
                         ea odit repellendus sit. </p>
                     <div class="text-left">
-                        <a href="about-us.php" class="red-button hvr-sweep-to-right">Know More</a>
+                        <a href="who-are-we.php" class="red-button hvr-sweep-to-right">Know More</a>
                     </div>
                 </div>
             </div>
@@ -54,7 +54,7 @@
         <div class="about-us-wrapper">
             <h2 class="text-white about-us-heading">"Summiting Everest: Triumphs, Challenges, and the Spirit of Mountaineering."</h2>
             <p>Mount Everest, the world's highest peak, has long captured the imagination of adventurers and climbers alike. Conquering this formidable giant represents a test of physical endurance, mental fortitude, and unwavering determination. Scaling the icy slopes and treacherous ridges of Everest is not without its challenges – extreme weather conditions, altitude sickness, and technical obstacles await those who dare to ascend. Yet, the allure of reaching the summit, standing atop the world, is an irresistible siren's call for mountaineers. The journey embodies the spirit of human resilience, camaraderie, and respect for nature's grandeur. With each successful climb comes a tale of triumph, but also a reminder of the mountain's power, instilling humility and respect for Mother Nature's awe-inspiring heights.</p>
-            <a href="about-us.php" class="white-button hvr-sweep-to-right">Know More</a>
+            <a href="about-lakpa.php" class="white-button hvr-sweep-to-right">Know More</a>
         </div>
     </div>
 </section>
@@ -186,7 +186,7 @@
         <div class="row">
             <div class="col-lg-4 height-col">
                 <div class="category-type">
-                    <a href="javascript:">
+                    <a href="regiions.php">
                         <div class="category-type-inner">
                             <small>OVER</small>
                             <b>6000</b>
@@ -197,7 +197,7 @@
             </div>
             <div class="col-lg-4 height-col">
                 <div class="category-type">
-                    <a href="javascript:">
+                    <a href="regions.php">
                         <div class="category-type-inner">
                             <small>OVER</small>
                             <b>7000</b>
@@ -208,7 +208,7 @@
             </div>
             <div class="col-lg-4 height-col">
                 <div class="category-type">
-                    <a href="javascript:">
+                    <a href="regions.php">
                         <div class="category-type-inner">
                             <small>OVER</small>
                             <b>8000</b>
@@ -228,7 +228,7 @@
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-6">
-                <a href="javascript:">
+                <a href="itinerary.php">
                     <div class="adventure-box" data-aos="fade-up">
                         <div class="sticker">
                             <span>Booking Open</span>
@@ -254,7 +254,7 @@
                 </a>
             </div>
             <div class="col-lg-4 col-md-6">
-                <a href="javascript:">
+                <a href="itinerary.php">
                     <div class="adventure-box" data-aos="fade-up">
                         <div class="sticker">
                             <span>Booking Open</span>
@@ -281,7 +281,7 @@
                 </a>
             </div>
             <div class="col-lg-4 col-md-6">
-                <a href="javascript:">
+                <a href="itinerary.php">
                     <div class="adventure-box" data-aos="fade-up">
                         <div class="sticker">
                             <span>Booking Open</span>
@@ -307,7 +307,7 @@
                 </a>
             </div>
             <div class="col-lg-4 col-md-6">
-                <a href="javascript:">
+                <a href="itinerary.php">
                     <div class="adventure-box" data-aos="fade-up">
                         <div class="sticker">
                             <span>Booking Open</span>
@@ -333,7 +333,7 @@
                 </a>
             </div>
             <div class="col-lg-4 col-md-6">
-                <a href="javascript:">
+                <a href="itinerary.php">
                     <div class="adventure-box" data-aos="fade-up">
                         <div class="sticker">
                             <span>Booking Open</span>
@@ -360,7 +360,7 @@
                 </a>
             </div>
             <div class="col-lg-4 col-md-6">
-                <a href="javascript:">
+                <a href="itinerary.php">
                     <div class="adventure-box" data-aos="fade-up">
                         <div class="sticker">
                             <span>Booking Open</span>
@@ -388,7 +388,7 @@
             </div>
         </div>
         <div class="text-center">
-            <a href="about-us.php" class="red-button hvr-sweep-to-right">Know More</a>
+            <a href="regions.php" class="red-button hvr-sweep-to-right">Know More</a>
         </div>
     </div>
 </div>

@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-lg-6 col-md-12">
                 <div class="about-us-image">
-                    <img src="assets/images/jonny-gios-vh3YqU7D-xM-unsplash.jpg" alt="About Us" class="img-fluid">
+                    <img src="assets/images/land8.jpg" alt="About Us" class="img-fluid">
                 </div>
             </div>
             <div class="col-lg-6 col-md-12">
@@ -20,15 +20,6 @@
                     <p>Working with our dedicated and experienced expedition leaders puts you and your team in the
                         safest hands possible while we help plan and build your expedition package from day 1 to summit.
                     </p>
-                    <ul class="about-us-list">
-                        <li>Search from 8+ available Expedition packages.</li>
-                        <li>Build a private & bespoke expedition.</li>
-                        <li>Contact our team, enquire directly or book online.</li>
-                        <li>Over 30 years experience in high-altitude climbing.</li>
-                        <li>Highly trained & experienced Sherpa built company.</li>
-                        <li>Climb safety and client health assessment.</li>
-                        <li>Best expedition package price guarantee.</li>
-                    </ul>
                 </div>
             </div>
         </div>

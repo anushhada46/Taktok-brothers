@@ -87,22 +87,22 @@
                                             <li class="nav-item">
                                                 <a class="nav-link active port-inner-link" data-toggle="pill"
                                                     href="#all" role="tab" aria-controls="pills-all"
-                                                    aria-selected="true">Region 1</a>
+                                                    aria-selected="true">Everest Region</a>
                                             </li>
                                             <li class="nav-item">
                                                 <a class="nav-link port-inner-link" data-toggle="pill" href="#land"
-                                                    role="tab" aria-controls="pills-land" aria-selected="false">Region
-                                                    2</a>
+                                                    role="tab" aria-controls="pills-land" aria-selected="false">Manasalu Region
+                                                </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a class="nav-link port-inner-link" data-toggle="pill" href="#rent"
-                                                    role="tab" aria-controls="pills-rent" aria-selected="false">Region
-                                                    3</a>
+                                                    role="tab" aria-controls="pills-rent" aria-selected="false">Annapurna Region
+                                                </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a class="nav-link port-inner-link" data-toggle="pill" href="#house"
-                                                    role="tab" aria-controls="pills-false" aria-selected="false">Region
-                                                    4</a>
+                                                    role="tab" aria-controls="pills-false" aria-selected="false">Himlung Region
+                                                </a>
                                             </li>
                                         </ul>
                                     </div>
@@ -114,37 +114,37 @@
                                                     <div class="col-lg-4 col-md-4">
                                                         <div class="navbar-image">
                                                             <a href="itinerary.php">
-                                                                <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                <img src="assets/images/land1.jpg" alt="Navbar Image"
                                                                     class="img-fluid">
                                                             </a>
-                                                            <h6 class="destination-name-navbar">Manasalu Region</h6>
+                                                            <h6 class="destination-name-navbar">Everest Base Camp</h6>
                                                         </div>
                                                     </div>
                                                     <div class="col-lg-4 col-md-4">
                                                         <div class="navbar-image">
                                                             <a href="itinerary.php">
-                                                                <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                <img src="assets/images/land2.jpg" alt="Navbar Image"
                                                                     class="img-fluid">
                                                             </a>
-                                                            <h6 class="destination-name-navbar">Manasalu Region</h6>
+                                                            <h6 class="destination-name-navbar">Everest Region</h6>
                                                         </div>
                                                     </div>
                                                     <div class="col-lg-4 col-md-4">
                                                         <div class="navbar-image">
                                                             <a href="itinerary.php">
-                                                                <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                <img src="assets/images/land28.jpg" alt="Navbar Image"
                                                                     class="img-fluid">
                                                             </a>
-                                                            <h6 class="destination-name-navbar">Manasalu Region</h6>
+                                                            <h6 class="destination-name-navbar">Everest Expedition</h6>
                                                         </div>
                                                     </div>
                                                     <div class="col-lg-4 col-md-4">
                                                         <div class="navbar-image">
                                                             <a href="itinerary.php">
-                                                                <img src="assets/images/car1.jpg" alt="Navbar Image"
+                                                                <img src="assets/images/land3.jpg" alt="Navbar Image"
                                                                     class="img-fluid">
                                                             </a>
-                                                            <h6 class="destination-name-navbar">Manasalu Region</h6>
+                                                            <h6 class="destination-name-navbar">Everest Trek</h6>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -155,7 +155,7 @@
                                                     <div class="col-lg-4 col-md-4">
                                                         <div class="navbar-image">
                                                             <a href="itinerary.php">
-                                                                <img src="assets/images/car2.jpg" alt="Navbar Image"
+                                                                <img src="assets/images/land4.jpg" alt="Navbar Image"
                                                                     class="img-fluid">
                                                             </a>
                                                             <h6 class="destination-name-navbar">Manasalu Region</h6>
@@ -164,28 +164,28 @@
                                                     <div class="col-lg-4 col-md-4">
                                                         <div class="navbar-image">
                                                             <a href="itinerary.php">
-                                                                <img src="assets/images/car2.jpg" alt="Navbar Image"
+                                                                <img src="assets/images/land5.jpg" alt="Navbar Image"
                                                                     class="img-fluid">
                                                             </a>
-                                                            <h6 class="destination-name-navbar">Manasalu Region</h6>
+                                                            <h6 class="destination-name-navbar">Manasalu Base Camp</h6>
                                                         </div>
                                                     </div>
                                                     <div class="col-lg-4 col-md-4">
                                                         <div class="navbar-image">
                                                             <a href="itinerary.php">
-                                                                <img src="assets/images/car2.jpg" alt="Navbar Image"
+                                                                <img src="assets/images/land6.jpg" alt="Navbar Image"
                                                                     class="img-fluid">
                                                             </a>
-                                                            <h6 class="destination-name-navbar">Manasalu Region</h6>
+                                                            <h6 class="destination-name-navbar">Manasalu Trek</h6>
                                                         </div>
                                                     </div>
                                                     <div class="col-lg-4 col-md-4">
                                                         <div class="navbar-image">
                                                             <a href="itinerary.php">
-                                                                <img src="assets/images/car2.jpg" alt="Navbar Image"
+                                                                <img src="assets/images/land7.jpg" alt="Navbar Image"
                                                                     class="img-fluid">
                                                             </a>
-                                                            <h6 class="destination-name-navbar">Manasalu Region</h6>
+                                                            <h6 class="destination-name-navbar">Manasalu Expedition</h6>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -199,7 +199,7 @@
                                                                 <img src="assets/images/car3.jpg" alt="Navbar Image"
                                                                     class="img-fluid">
                                                             </a>
-                                                            <h6 class="destination-name-navbar">Manasalu Region</h6>
+                                                            <h6 class="destination-name-navbar">Annapurna Region</h6>
                                                         </div>
                                                     </div>
                                                     <div class="col-lg-4 col-md-4">
@@ -208,7 +208,7 @@
                                                                 <img src="assets/images/car3.jpg" alt="Navbar Image"
                                                                     class="img-fluid">
                                                             </a>
-                                                            <h6 class="destination-name-navbar">Manasalu Region</h6>
+                                                            <h6 class="destination-name-navbar">Annapurna Base Camp</h6>
                                                         </div>
                                                     </div>
                                                     <div class="col-lg-4 col-md-4">
@@ -217,7 +217,7 @@
                                                                 <img src="assets/images/car3.jpg" alt="Navbar Image"
                                                                     class="img-fluid">
                                                             </a>
-                                                            <h6 class="destination-name-navbar">Manasalu Region</h6>
+                                                            <h6 class="destination-name-navbar">Annapurna Trek</h6>
                                                         </div>
                                                     </div>
                                                     <div class="col-lg-4 col-md-4">
@@ -226,7 +226,7 @@
                                                                 <img src="assets/images/car3.jpg" alt="Navbar Image"
                                                                     class="img-fluid">
                                                             </a>
-                                                            <h6 class="destination-name-navbar">Manasalu Region</h6>
+                                                            <h6 class="destination-name-navbar">Annapurna Expedition</h6>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -699,21 +699,21 @@
             </nav>
             <div class="owl-carousel top-owl owl-theme">
                 <div class="item">
-                    <img src="assets/images/car1.jpg" class="img-fluid" alt="Carousel">
+                    <img src="assets/images/land1.jpg" class="img-fluid" alt="Carousel">
                     <div class="overlay"></div>
                     <div class="caption">
                         <h2 class="h3">OPEN YOUR EYES TO THE</h2>
                         <h6>HIDDEN WORLD</h6>
                         <p>Stunning & Technically Challenging peak,</p>
                         <p>Scheduled for October - November (Autumn) 2022.</p>
-                        <a href="#" class="hvr-icon-forward">
+                        <a href="regions.php" class="hvr-icon-forward">
                             Explore More
                             <i class="fa fa-chevron-circle-right hvr-icon"></i>
                         </a>
                     </div>
                 </div>
                 <div class="item">
-                    <img src="assets/images/car2.jpg" class="img-fluid" alt="Carousel">
+                    <img src="assets/images/land6.jpg" class="img-fluid" alt="Carousel">
                     <div class="overlay"></div>
                     <div class="caption">
                         <h2 class="h3">WELCOME TO THE</h2>
@@ -727,7 +727,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <img src="assets/images/car3.jpg" class="img-fluid" alt="Carousel">
+                    <img src="assets/images/land29.jpg" class="img-fluid" alt="Carousel">
                     <div class="overlay"></div>
                     <div class="caption">
                         <h2 class="h3">TOGETHER WE</h2>

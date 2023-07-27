@@ -748,7 +748,7 @@ a.toggle-services i {
 
 /*ABOUT US STARTS*/
 .about-us {
-  background: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), #03030352), url(../images/car1.jpg);
+  background: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), #03030352), url(../images/land7.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -768,7 +768,15 @@ a.toggle-services i {
   margin: 25px 0;
   color: var(--white-color);
 }
-
+.about-us-text h5{
+  font-size: 2rem;
+  color: var(--primary-color);
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+.about-us-text p{
+  line-height: 32px;
+}
 /*ABOUT US ENDS*/
 /*TRUSTED BY START*/
 .trusted-by-section {
@@ -787,6 +795,7 @@ a.toggle-services i {
   height: 150px;
   width: 100px;
 }
+
 
 
 /*TRUSTED BY ENDS*/
@@ -3302,7 +3311,7 @@ nav input {
 /*TESTIMONIALS ENDS*/
 /*CATEGORIES STARTS*/
 .categories {
-  background: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), #0303038a), url(../images/car2.jpg);
+  background: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), #0303038a), url(../images/land28.jpg);
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3442,4 +3451,8 @@ nav input {
     opacity: 0;
     visibility: hidden;
     box-shadow: rgba(0, 0, 0, 0.15) 0px 6px 10px;
+}
+
+.travel-detail .main-title h2{
+  color: var(--primary-color);
 }
