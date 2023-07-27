@@ -1380,6 +1380,19 @@ footer {
   padding: 5px 0;
 }
 
+.blog-header{
+  color: var(--primary-color);
+  font-weight: 700;
+  font-size: 1.7rem;
+}
+.sub-heading{
+  font-weight: 700;
+  color: var(--primary-color);
+}
+.sidebar-heading h5{
+  font-weight: 600;
+  color: var(--primary-color);
+}
 /*BLOGS ENDS*/
 /*WHY US*/
 

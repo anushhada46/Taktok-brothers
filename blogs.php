@@ -12,7 +12,7 @@
                         <div class="blog-image">
                             <img src="assets/images/car1.jpg" alt="Blog Image">
                         </div>
-                        <h6 class="blog-title"><a href="blog-single.php">This is a blog post for IT Arrow.</a></h6>
+                        <h6 class="blog-title"><a href="blog-single.php">This is a blog post for Taktok Brothers.</a></h6>
                         <div class="info-blog d-flex align-items-center">
                             <div class="blog-writer">
                                 <i class="fa-solid fa-user"></i>
@@ -33,7 +33,7 @@
                         <div class="blog-image">
                             <img src="assets/images/car2.jpg" alt="Blog Image">
                         </div>
-                        <h6 class="blog-title"><a href="blog-single.php">This is a blog post from IT Arrow.</a></h6>
+                        <h6 class="blog-title"><a href="blog-single.php">This is a blog post from Taktok Brothers.</a></h6>
                         <div class="info-blog d-flex align-items-center">
                             <div class="blog-writer">
                                 <i class="fa-solid fa-user"></i>
@@ -54,7 +54,7 @@
                         <div class="blog-image">
                             <img src="assets/images/car3.jpg" alt="Blog Image">
                         </div>
-                        <h6 class="blog-title"><a href="blog-single.php">This is a blog post for IT Arrow.</a></h6>
+                        <h6 class="blog-title"><a href="blog-single.php">This is a blog post for Taktok Brothers.</a></h6>
                         <div class="info-blog d-flex align-items-center">
                             <div class="blog-writer">
                                 <i class="fa-solid fa-user"></i>
@@ -75,7 +75,7 @@
                         <div class="blog-image">
                             <img src="assets/images/car1.jpg" alt="Blog Image">
                         </div>
-                        <h6 class="blog-title"><a href="blog-single.php">This is a blog post for IT Arrow.</a></h6>
+                        <h6 class="blog-title"><a href="blog-single.php">This is a blog post for Taktok Brothers.</a></h6>
                         <div class="info-blog d-flex align-items-center">
                             <div class="blog-writer">
                                 <i class="fa-solid fa-user"></i>
@@ -117,7 +117,7 @@
                         <div class="blog-image">
                             <img src="assets/images/car2.jpg" alt="Blog Image">
                         </div>
-                        <h6 class="blog-title"><a href="blog-single.php">This is a blog post for IT Arrow.</a></h6>
+                        <h6 class="blog-title"><a href="blog-single.php">This is a blog post for Taktok Brothers.</a></h6>
                         <div class="info-blog d-flex align-items-center">
                             <div class="blog-writer">
                                 <i class="fa-solid fa-user"></i>

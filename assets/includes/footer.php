@@ -7,7 +7,7 @@
       <div class="col-lg-3 col-md-6">
         <div class="footer-section">
           <ul class="info-footer info-location">
-            <li><i class="fa-solid fa-location-dot"></i> Chucchepati, Chabahil, Kathmandu</li>
+            <li><i class="fa-solid fa-location-dot"></i> Taumadhi, Bhaktapur</li>
             <li><i class="fa-solid fa-phone"></i> <a href="tel:">+977 9812345678</a></li>
             <li><i class="fa-solid fa-envelope"></i> <a href="mailto:">xyz@domain.com</a></li>
           </ul>

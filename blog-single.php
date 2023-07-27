@@ -20,7 +20,7 @@
                         perferendis laboriosam, unde deserunt ipsum modi reiciendis fugit dicta assumenda aspernatur.
                         Maiores dolorum quia ratione ipsum, illum, incidunt similique recusandae at commodi nisi iusto,
                         quibusdam nihil.</p>
-                    <h2 class="h5 my-2">This is a sub heading</h2>
+                    <h2 class="h5 my-2 sub-heading">This is a sub heading</h2>
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est quaerat, odit repellat libero
                         voluptatum sapiente voluptas totam nobis laborum dolores.</p>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo enim similique veritatis hic

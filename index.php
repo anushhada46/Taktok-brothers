@@ -52,12 +52,8 @@
 <section class="about-us">
     <div class="container">
         <div class="about-us-wrapper">
-            <h2 class="text-white about-us-heading">Specialists In Custom Fish Tanks, Luxury Aquarium Design,
-                Installation And Maintenance.</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste quae consectetur suscipit numquam rem
-                laboriosam, assumenda amet distinctio perferendis eius eaque aliquam nihil quidem iusto eligendi nobis
-                eos qui odit? Necessitatibus reprehenderit ipsa veniam quisquam libero porro, modi a ipsam, quam
-                pariatur, rem laboriosam. Dolorum veritatis recusandae blanditiis tempora aut!</p>
+            <h2 class="text-white about-us-heading">"Summiting Everest: Triumphs, Challenges, and the Spirit of Mountaineering."</h2>
+            <p>Mount Everest, the world's highest peak, has long captured the imagination of adventurers and climbers alike. Conquering this formidable giant represents a test of physical endurance, mental fortitude, and unwavering determination. Scaling the icy slopes and treacherous ridges of Everest is not without its challenges – extreme weather conditions, altitude sickness, and technical obstacles await those who dare to ascend. Yet, the allure of reaching the summit, standing atop the world, is an irresistible siren's call for mountaineers. The journey embodies the spirit of human resilience, camaraderie, and respect for nature's grandeur. With each successful climb comes a tale of triumph, but also a reminder of the mountain's power, instilling humility and respect for Mother Nature's awe-inspiring heights.</p>
             <a href="about-us.php" class="white-button hvr-sweep-to-right">Know More</a>
         </div>
     </div>
@@ -260,6 +256,11 @@
             <div class="col-lg-4 col-md-6">
                 <a href="javascript:">
                     <div class="adventure-box" data-aos="fade-up">
+                        <div class="sticker">
+                            <span>Booking Open</span>
+                        </div>
+                        <span class="sticker-after sticker-tringle"></span>
+                        <span class="sticker-before sticker-tringle"></span>
                         <div class="adventure-image">
                             <img src="assets/images/daniel-leone-g30P1zcOzXo-unsplash.jpg" alt="Adventure Image"
                                 class="img-fluid">
@@ -282,6 +283,11 @@
             <div class="col-lg-4 col-md-6">
                 <a href="javascript:">
                     <div class="adventure-box" data-aos="fade-up">
+                        <div class="sticker">
+                            <span>Booking Open</span>
+                        </div>
+                        <span class="sticker-after sticker-tringle"></span>
+                        <span class="sticker-before sticker-tringle"></span>
                         <div class="adventure-image">
                             <img src="assets/images/car2.jpg" alt="Adventure Image" class="img-fluid">
                         </div>
@@ -303,6 +309,11 @@
             <div class="col-lg-4 col-md-6">
                 <a href="javascript:">
                     <div class="adventure-box" data-aos="fade-up">
+                        <div class="sticker">
+                            <span>Booking Open</span>
+                        </div>
+                        <span class="sticker-after sticker-tringle"></span>
+                        <span class="sticker-before sticker-tringle"></span>
                         <div class="adventure-image">
                             <img src="assets/images/car3.jpg" alt="Adventure Image" class="img-fluid">
                         </div>
@@ -324,6 +335,11 @@
             <div class="col-lg-4 col-md-6">
                 <a href="javascript:">
                     <div class="adventure-box" data-aos="fade-up">
+                        <div class="sticker">
+                            <span>Booking Open</span>
+                        </div>
+                        <span class="sticker-after sticker-tringle"></span>
+                        <span class="sticker-before sticker-tringle"></span>
                         <div class="adventure-image">
                             <img src="assets/images/jerry-zhang-Y8lCoTRgHPE-unsplash.jpg" alt="Adventure Image"
                                 class="img-fluid">
@@ -346,6 +362,11 @@
             <div class="col-lg-4 col-md-6">
                 <a href="javascript:">
                     <div class="adventure-box" data-aos="fade-up">
+                        <div class="sticker">
+                            <span>Booking Open</span>
+                        </div>
+                        <span class="sticker-after sticker-tringle"></span>
+                        <span class="sticker-before sticker-tringle"></span>
                         <div class="adventure-image">
                             <img src="assets/images/jerry-zhang-Y8lCoTRgHPE-unsplash.jpg" alt="Adventure Image"
                                 class="img-fluid">
@@ -414,48 +435,38 @@
                     <div id="testim-content" class="cont">
                         <div class="active">
                             <div class="img"><img
-                                    src="https://in.bmscdn.com/iedb/artist/images/website/poster/large/kartik-aaryan-1045198-08-12-2017-06-34-11.jpg"
+                                    src="assets/images/review1.jpg"
                                     alt=""></div>
-                            <h2>Lorem P. Ipsum</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                ullamco.</p>
+                            <h2>Anush Hada</h2>
+                            <p>"The Taktok Brothers Expedition provided an unforgettable trekking experience! Their team's expertise and professionalism were apparent from the very beginning. The well-organized expedition was filled with breathtaking views and challenging trails that pushed us to our limits. The guides were knowledgeable and supportive, ensuring our safety and enjoyment throughout the journey. I highly recommend Taktok Brothers Expedition to all adventure seekers looking for a top-notch trekking experience."</p>
                         </div>
                         <div>
                             <div class="img"><img
-                                    src="https://timesofindia.indiatimes.com/thumb/msid-75752690,width-800,height-600,resizemode-4/75752690.jpg"
+                                    src="assets/images/review1.jpg"
                                     alt=""></div>
-                            <h2>Mr. Lorem Ipsum</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                ullamco.</p>
+                            <h2>Ayush Karmacharya</h2>
+                            <p>"My recent trek with Taktok Brothers Expedition exceeded all expectations! From the moment we signed up, they were attentive to our preferences and crafted a personalized itinerary that perfectly suited our group. The guides were friendly, experienced, and had a genuine passion for the mountains. The entire journey was well-paced, allowing us to acclimate to the altitude comfortably. The stunning landscapes and sense of accomplishment at each summit made this expedition an absolute delight. I can't wait to join them on another adventure!"</p>
                         </div>
                         <div>
                             <div class="img"><img
-                                    src="https://p16.muscdn.com/img/musically-maliva-obj/1627333501517830~c5_720x720.jpeg"
+                                    src="assets/images/review1.jpg"
                                     alt=""></div>
-                            <h2>Lorem Ipsum</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                ullamco.</p>
+                            <h2>Sashin Chawal</h2>
+                            <p>"Taktok Brothers Expedition truly offers a one-of-a-kind experience! Their attention to detail and focus on safety gave me the confidence to embark on my first trek ever. The guides were incredibly patient and encouraging, making the journey enjoyable for a novice like me. The trek itself was a mesmerizing blend of nature's beauty and the thrill of conquering challenging terrains. I'm grateful for the memories and new friends I made during this expedition. Taktok Brothers has definitely earned my trust and loyalty!"</p>
                         </div>
                         <div>
                             <div class="img"><img
-                                    src="https://p16-sg-default.akamaized.net/aweme/1080x1080/tiktok-obj/1666413671597057.jpeg"
+                                    src="assets/images/review1.jpg"
                                     alt=""></div>
-                            <h2>Lorem De Ipsum</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                ullamco.</p>
+                            <h2>Lakpa Dendi Sherpa</h2>
+                            <p>"What an incredible adventure with Taktok Brothers Expedition! The whole team's passion for mountaineering and trekking was evident in every aspect of the trip. The well-organized logistics, high-quality gear, and exceptional guides made this expedition stand out. The journey was a perfect balance of physical challenge and serene moments in nature. If you're looking for an unforgettable trekking experience with a reliable and passionate company, Taktok Brothers should be your top choice!"</p>
                         </div>
                         <div>
                             <div class="img"><img
-                                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSKLJe1Lrz2N3ufVSwQokSJ79jGBbIptXuVnsdxMmNUlE14ohwp&usqp=CAU"
+                                    src="assets/images/review1.jpg"
                                     alt=""></div>
-                            <h2>Ms. Lorem R. Ipsum</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                ullamco.</p>
+                            <h2>Yogendra Tamang</h2>
+                            <p>"Kudos to Taktok Brothers Expedition for an exceptional trekking experience! They took care of every detail, leaving us free to immerse ourselves in the beauty of the mountains. The guides' knowledge about the local culture and environment added a unique touch to the journey. I appreciated their commitment to responsible and sustainable trekking practices, ensuring the preservation of the stunning landscapes for generations to come. Taktok Brothers truly creates adventures that leave a positive impact on both travelers and the places they explore."</p>
                         </div>
                     </div>
                 </div>
