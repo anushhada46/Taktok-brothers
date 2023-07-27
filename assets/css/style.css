@@ -768,15 +768,18 @@ a.toggle-services i {
   margin: 25px 0;
   color: var(--white-color);
 }
-.about-us-text h5{
+
+.about-us-text h5 {
   font-size: 2rem;
   color: var(--primary-color);
   font-weight: 700;
   margin-bottom: 15px;
 }
-.about-us-text p{
+
+.about-us-text p {
   line-height: 32px;
 }
+
 /*ABOUT US ENDS*/
 /*TRUSTED BY START*/
 .trusted-by-section {
@@ -1389,19 +1392,22 @@ footer {
   padding: 5px 0;
 }
 
-.blog-header{
+.blog-header {
   color: var(--primary-color);
   font-weight: 700;
   font-size: 1.7rem;
 }
-.sub-heading{
+
+.sub-heading {
   font-weight: 700;
   color: var(--primary-color);
 }
-.sidebar-heading h5{
+
+.sidebar-heading h5 {
   font-weight: 600;
   color: var(--primary-color);
 }
+
 /*BLOGS ENDS*/
 /*WHY US*/
 
@@ -3443,16 +3449,41 @@ nav input {
 
 /*BOOKING OPEN ENDS*/
 .nav-links .drop-menu {
-    position: absolute;
-    background: var(--primary-color);
-    width: 200px;
-    line-height: 45px;
-    top: 85px;
-    opacity: 0;
-    visibility: hidden;
-    box-shadow: rgba(0, 0, 0, 0.15) 0px 6px 10px;
+  position: absolute;
+  background: var(--primary-color);
+  width: 200px;
+  line-height: 45px;
+  top: 85px;
+  opacity: 0;
+  visibility: hidden;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 6px 10px;
 }
 
-.travel-detail .main-title h2{
+.travel-detail .main-title h2 {
   color: var(--primary-color);
 }
+
+/*BOOKING PAGE STARTS*/
+.book-now-form {
+  box-shadow: var(--box-shadow);
+  padding: 20px;
+  border-radius: 0.5rem;
+}
+
+.booking-form-heading {
+  margin-bottom: 20px;
+}
+
+.booking-form-heading h4 {
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
+.booking-form-heading p {
+  color: grey;
+}
+
+.book-now-form form label{
+  font-weight: 700;
+}
+/*BOOKING PAGE ENDS*/

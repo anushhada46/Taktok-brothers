@@ -23,12 +23,12 @@
         <div class="footer-section">
           <h5 class="footer-section-head">About Us</h5>
           <ul class="info-footer">
-            <li><a href="javascript:">Why Us?</a></li>
-            <li><a href="javascript:">Who Are We?</a></li>
-            <li><a href="javascript:">Message from the Director</a></li>
+            <li><a href="why-us.php">Why Us?</a></li>
+            <li><a href="who-are-we.php">Who Are We?</a></li>
+            <li><a href="message-director.php">Message from the Director</a></li>
             <li><a href="javascript:">Our Teams</a></li>
-            <li><a href="javascript:">Reviews</a></li>
-            <li><a href="javascript:">Documents</a></li>
+            <li><a href="reviews.php:">Reviews</a></li>
+            <li><a href="documents.php">Documents</a></li>
           </ul>
         </div>
       </div>

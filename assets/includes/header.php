@@ -55,7 +55,7 @@
         <div class="container-custom">
             <nav class="main-navbar">
                 <div class="wrapper">
-                    <div class="logo"><a href="#"><img src="assets/images/logo.png" alt="Logo" class="img-fluid"></a>
+                    <div class="logo"><a href="index.php"><img src="assets/images/logo.png" alt="Logo" class="img-fluid"></a>
                     </div>
                     <input type="radio" name="slider" id="menu-btn">
                     <input type="radio" name="slider" id="close-btn">
