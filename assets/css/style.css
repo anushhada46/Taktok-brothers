@@ -2099,7 +2099,7 @@ ul.subMenu ul.subMenu ul.subMenu li:last-child {
 .tour-information .title {
   font-weight: bold;
   font-size: 19px;
-  color: var(--secondary-color);
+  color: var(--primary-color);
 }
 
 .days-nights {
@@ -2198,7 +2198,7 @@ ul.subMenu ul.subMenu ul.subMenu li:last-child {
 .cost-include-heading {
   border-right: 1px solid #ccc;
 }
-
+/* 
 .gallery-title h4 {
   position: relative;
 }
@@ -2217,7 +2217,7 @@ ul.subMenu ul.subMenu ul.subMenu li:last-child {
   height: 240px;
   object-fit: cover;
   width: 100%;
-}
+} */
 
 .card-main img:hover {
   opacity: 0.5;
@@ -2288,7 +2288,7 @@ ul.subMenu ul.subMenu ul.subMenu li:last-child {
 
 .tour-information h3 {
   font-weight: 700;
-  color: var(--secondary-color);
+  color: var(--primary-color);
 }
 
 /*ITINEARY ENDS*/
@@ -3477,6 +3477,7 @@ nav input {
 .booking-form-heading h4 {
   font-size: 1.5rem;
   font-weight: 900;
+  color: var(--primary-color);
 }
 
 .booking-form-heading p {
@@ -3487,3 +3488,11 @@ nav input {
   font-weight: 700;
 }
 /*BOOKING PAGE ENDS*/
+/*DETAIL PAGE GALLERY*/
+.detail-page-gallery{
+  background: #4a4a4a;
+}
+
+.detail-page-gallery .main-title h2{
+  color: var(--white-color);
+}

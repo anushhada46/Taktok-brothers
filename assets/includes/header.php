@@ -46,7 +46,7 @@
     <link rel="stylesheet" href="assets/css/impact.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
     <!--FAVICON-->
-    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/images/logoo.png" type="image/x-icon">
     <title>Taktok Brothers Expedition</title>
 </head>
 

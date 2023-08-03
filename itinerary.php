@@ -421,7 +421,7 @@
                     </div>
                     <div class="trip-booking d-flex align-items-center">
                         <div class="book-button mr-4 mt-5 mb-5">
-                            <a href="book-a-trip.php" class="btn-1">Book This Trip</a>
+                            <a href="book-now.php" class="btn-1">Book This Trip</a>
                         </div>
                         <div class="book-button mt-5 mb-5">
                             <button class="btn-1 inquiry-button" data-toggle="modal" data-target="#exampleModal">Inquiry</button>
@@ -432,7 +432,6 @@
                     <div class="tour-information">
                         <p class="days-nights">4 Days / 3 Nights</p>
                         <h3><b>Kathmandu To Kakani</b> </h3>
-                        <p>From <b>Bhaktapur</b> To <b>Kakani</b></p>
                         <div class="d-flex">
                             <div class="tour-operator mt-3  mr-3">
                                 <p class="title  mb-0">Tour Operator:</p>
@@ -456,11 +455,70 @@
                         </div>
                         <div class="tour-price">
                             <p class="mb-2">From <s>Rs.7500</s> </p>
-                            <span class="Money"> Rs.5500/PER PERSON</span>
+                            <span class="Money"> Rs.5500/per person</span>
                         </div>
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
+</section>
+<section class="section-padding detail-page-gallery">
+    <div class="container-fluid">
+        <div class="main-title text-center">
+            <h2>PHOTO GALLERY</h2>
+        </div>
+        <div class="card-columns mt-5">
+            <a data-fancybox="gallery" href="assets/images/land1.jpg">
+                <div class="card-main mb-4">
+                    <img class="card-img lazy-image" src="assets/images/land1.jpg" alt="Card image cap">
+                </div>
+            </a>
+            <a data-fancybox="gallery" href="assets/images/port1.jpg">
+                <div class="card-main mb-4">
+                    <img class="card-img lazy-image" src="assets/images/port1.jpg" alt="Card image cap">
+                </div>
+            </a>
+            <a data-fancybox="gallery" href="assets/images/port2.jpg">
+                <div class="card-main mb-4">
+                    <img class="card-img lazy-image" src="assets/images/port2.jpg" alt="Card image cap">
+                </div>
+            </a>
+            <a data-fancybox="gallery" href="assets/images/land2.jpg">
+                <div class="card-main mb-4">
+                    <img class="card-img lazy-image" src="assets/images/land2.jpg" alt="Card image cap">
+                </div>
+            </a>
+            <a data-fancybox="gallery" href="assets/images/land3.jpg">
+                <div class="card-main mb-4">
+                    <img class="card-img lazy-image" src="assets/images/land3.jpg" alt="Card image cap">
+                </div>
+            </a>
+            <a data-fancybox="gallery" href="assets/images/port2.jpg">
+                <div class="card-main mb-4">
+                    <img class="card-img lazy-image" src="assets/images/port2.jpg" alt="Card image cap">
+                </div>
+            </a>
+            <a data-fancybox="gallery" href="assets/images/port3.jpg">
+                <div class="card-main mb-4">
+                    <img class="card-img lazy-image" src="assets/images/port3.jpg" alt="Card image cap">
+                </div>
+            </a>
+            <a data-fancybox="gallery" href="assets/images/port4.jpg">
+                <div class="card-main mb-4">
+                    <img class="card-img lazy-image" src="assets/images/port4.jpg" alt="Card image cap">
+                </div>
+            </a>
+            <a data-fancybox="gallery" href="assets/images/port5.jpg">
+                <div class="card-main mb-4">
+                    <img class="card-img lazy-image" src="assets/images/port5.jpg" alt="Card image cap">
+                </div>
+            </a>
+            <a data-fancybox="gallery" href="assets/images/land8.jpg">
+                <div class="card-main mb-4">
+                    <img class="card-img lazy-image" src="assets/images/land8.jpg" alt="Card image cap">
+                </div>
+            </a>
         </div>
     </div>
 </section>
