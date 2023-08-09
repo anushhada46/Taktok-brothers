@@ -64,9 +64,11 @@
                         <label for="close-btn" class="btn close-btn"><i class="fas fa-times"></i></label>
                         <li><a href="index.php" class="hvr-underline-from-center">Home</a></li>
                         <li>
-                            <a href="#" class="desktop-item hvr-underline-from-center">Company<i class="fas fa-chevron-down navbardrop-icon"></i></a>
+                            <a href="#" class="desktop-item hvr-underline-from-center">Company<i
+                                    class="fas fa-chevron-down navbardrop-icon"></i></a>
                             <input type="checkbox" id="showDrop">
-                            <label for="showDrop" class="mobile-item">Company<i class="fas fa-chevron-down navbardrop-icon"></i></label>
+                            <label for="showDrop" class="mobile-item">Company<i
+                                    class="fas fa-chevron-down navbardrop-icon"></i></label>
                             <ul class="drop-menu">
                                 <li><a href="why-us.php">Why Us?</a></li>
                                 <li><a href="message-director.php">Message from the Director</a></li>
@@ -76,10 +78,12 @@
                                 <li><a href="documents.php">Documents</a></li>
                             </ul>
                         </li>
-                        <li>
-                            <a href="#" class="desktop-item hvr-underline-from-center">Region<i class="fas fa-chevron-down navbardrop-icon"></i></a>
+                        <!-- <li>
+                            <a href="#" class="desktop-item hvr-underline-from-center">Region<i
+                                    class="fas fa-chevron-down navbardrop-icon"></i></a>
                             <input type="checkbox" id="showMega">
-                            <label for="showMega" class="mobile-item">Region<i class="fas fa-chevron-down navbardrop-icon"></i></label>
+                            <label for="showMega" class="mobile-item">Region<i
+                                    class="fas fa-chevron-down navbardrop-icon"></i></label>
                             <div class="mega-box">
                                 <div class="content">
                                     <div class="row-25">
@@ -92,17 +96,20 @@
                                             </li>
                                             <li class="nav-item">
                                                 <a class="nav-link port-inner-link" data-toggle="pill" href="#land"
-                                                    role="tab" aria-controls="pills-land" aria-selected="false">Manasalu Region
+                                                    role="tab" aria-controls="pills-land" aria-selected="false">Manasalu
+                                                    Region
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a class="nav-link port-inner-link" data-toggle="pill" href="#rent"
-                                                    role="tab" aria-controls="pills-rent" aria-selected="false">Annapurna Region
+                                                    role="tab" aria-controls="pills-rent"
+                                                    aria-selected="false">Annapurna Region
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a class="nav-link port-inner-link" data-toggle="pill" href="#house"
-                                                    role="tab" aria-controls="pills-false" aria-selected="false">Himlung Region
+                                                    role="tab" aria-controls="pills-false" aria-selected="false">Himlung
+                                                    Region
                                                 </a>
                                             </li>
                                         </ul>
@@ -227,7 +234,8 @@
                                                                 <img src="assets/images/car3.jpg" alt="Navbar Image"
                                                                     class="img-fluid">
                                                             </a>
-                                                            <h6 class="destination-name-navbar">Annapurna Expedition</h6>
+                                                            <h6 class="destination-name-navbar">Annapurna Expedition
+                                                            </h6>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -277,11 +285,13 @@
                                     </div>
                                 </div>
                             </div>
-                        </li>
+                        </li> -->
                         <li>
-                            <a href="#" class="desktop-item hvr-underline-from-center">Expedition<i class="fas fa-chevron-down navbardrop-icon"></i></a>
+                            <a href="#" class="desktop-item hvr-underline-from-center">Expedition<i
+                                    class="fas fa-chevron-down navbardrop-icon"></i></a>
                             <input type="checkbox" id="showMega2">
-                            <label for="showMega2" class="mobile-item">Expedition<i class="fas fa-chevron-down navbardrop-icon"></i></label>
+                            <label for="showMega2" class="mobile-item">Expedition<i
+                                    class="fas fa-chevron-down navbardrop-icon"></i></label>
                             <div class="mega-box">
                                 <div class="content">
                                     <div class="row-25">
@@ -483,9 +493,11 @@
                             </div>
                         </li>
                         <li>
-                            <a href="#" class="desktop-item hvr-underline-from-center">Trekking<i class="fas fa-chevron-down navbardrop-icon"></i></a>
+                            <a href="#" class="desktop-item hvr-underline-from-center">Trekking<i
+                                    class="fas fa-chevron-down navbardrop-icon"></i></a>
                             <input type="checkbox" id="showMega3">
-                            <label for="showMega3" class="mobile-item">Trekking<i class="fas fa-chevron-down navbardrop-icon"></i></label>
+                            <label for="showMega3" class="mobile-item">Trekking<i
+                                    class="fas fa-chevron-down navbardrop-icon"></i></label>
                             <div class="mega-box">
                                 <div class="content">
                                     <div class="row-25">

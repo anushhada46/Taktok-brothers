@@ -75,7 +75,7 @@
                                 <li><a href="documents.php">Documents</a></li>
                             </ul>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a href="#" class="desktop-item hvr-underline-from-center">Region<i class="fas fa-chevron-down navbardrop-icon"></i></a>
                             <input type="checkbox" id="showMega">
                             <label for="showMega" class="mobile-item">Region<i class="fas fa-chevron-down navbardrop-icon"></i></label>
@@ -276,7 +276,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </li>
+                        </li> -->
                         <li>
                             <a href="#" class="desktop-item hvr-underline-from-center">Expedition<i class="fas fa-chevron-down navbardrop-icon"></i></a>
                             <input type="checkbox" id="showMega2">
